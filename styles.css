@@ -1,0 +1,60 @@
+.header{
+    background-image: url("https://media.giphy.com/media/fw2RewLoHMUBW/giphy.gif");
+    text-align: center;
+    color: white;
+}
+
+.main{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.vote1{
+    background-color: darkred;
+}
+
+.img{
+    border: dotted 5px purple;
+}
+
+.des{
+    
+    background-color: darkred;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: #2faf80;
+    justify-content: center;
+}
+body{
+    background-color: black;
+}
+
+.vote1 button{
+    width: 300px;
+    height: 100px;
+    color: purple;
+    background-color: black;
+    font-size: 80px;
+    border: dotted 3px purple;
+}
+
+a:hover{
+    color: purple;
+}
+
+a{
+    color:darkred;
+}
+
+.idk{
+    background-color:purple;
+    display:flex;
+}
+
+
+
+
+
+
